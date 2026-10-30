@@ -1,5 +1,5 @@
-import 'package:evofox_assignment_01/core/theme/app_colors.dart';
-import 'package:evofox_assignment_01/pages/onboarding/welcome_page.dart';
+import 'package:evofox_rework/core/theme/app_colors.dart';
+import 'package:evofox_rework/pages/onboarding/welcome_page.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 

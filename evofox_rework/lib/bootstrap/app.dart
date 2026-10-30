@@ -1,5 +1,5 @@
-import 'package:evofox_assignment_01/core/routes/app_routes.dart';
-import 'package:evofox_assignment_01/core/theme/app_theme.dart';
+import 'package:evofox_rework/core/routes/app_routes.dart';
+import 'package:evofox_rework/core/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {

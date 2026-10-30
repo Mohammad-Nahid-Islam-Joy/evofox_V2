@@ -1,7 +1,7 @@
-import 'package:evofox_assignment_01/pages/auth/login_page.dart';
-import 'package:evofox_assignment_01/widgets/custom_app_bar.dart';
-import 'package:evofox_assignment_01/widgets/onboarding_button_block.dart';
-import 'package:evofox_assignment_01/widgets/onboarding_middle_info_block.dart';
+import 'package:evofox_rework/pages/auth/login_page.dart';
+import 'package:evofox_rework/widgets/custom_app_bar.dart';
+import 'package:evofox_rework/widgets/onboarding_button_block.dart';
+import 'package:evofox_rework/widgets/onboarding_middle_info_block.dart';
 import 'package:flutter/material.dart';
 
 class OnboardingPageThree extends StatelessWidget {

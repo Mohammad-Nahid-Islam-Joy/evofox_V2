@@ -1,4 +1,4 @@
-import 'package:evofox_assignment_01/core/theme/app_colors.dart';
+import 'package:evofox_rework/core/theme/app_colors.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

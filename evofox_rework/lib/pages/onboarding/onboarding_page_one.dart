@@ -1,13 +1,13 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-import 'package:evofox_assignment_01/widgets/onboarding_middle_info_block.dart';
+import 'package:evofox_rework/widgets/onboarding_middle_info_block.dart';
 import 'package:flutter/material.dart';
 
-import 'package:evofox_assignment_01/core/theme/app_colors.dart';
-import 'package:evofox_assignment_01/pages/auth/login_page.dart';
-import 'package:evofox_assignment_01/pages/onboarding/onboarding_page_two.dart';
-import 'package:evofox_assignment_01/widgets/custom_app_bar.dart';
-import 'package:evofox_assignment_01/widgets/onboarding_button_block.dart';
-import 'package:evofox_assignment_01/widgets/text_app_button.dart';
+import 'package:evofox_rework/core/theme/app_colors.dart';
+import 'package:evofox_rework/pages/auth/login_page.dart';
+import 'package:evofox_rework/pages/onboarding/onboarding_page_two.dart';
+import 'package:evofox_rework/widgets/custom_app_bar.dart';
+import 'package:evofox_rework/widgets/onboarding_button_block.dart';
+import 'package:evofox_rework/widgets/text_app_button.dart';
 
 class OnboardingPageOne extends StatelessWidget {
   static const name = "/onboradin-page-one";

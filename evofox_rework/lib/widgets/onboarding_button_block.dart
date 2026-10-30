@@ -1,8 +1,8 @@
-import 'package:evofox_assignment_01/core/theme/app_colors.dart';
-import 'package:evofox_assignment_01/pages/auth/registration_page.dart';
-import 'package:evofox_assignment_01/widgets/elevated_app_button.dart';
-import 'package:evofox_assignment_01/widgets/onborading_page_indicator.dart';
-import 'package:evofox_assignment_01/widgets/text_app_button.dart';
+import 'package:evofox_rework/core/theme/app_colors.dart';
+import 'package:evofox_rework/pages/auth/registration_page.dart';
+import 'package:evofox_rework/widgets/elevated_app_button.dart';
+import 'package:evofox_rework/widgets/onborading_page_indicator.dart';
+import 'package:evofox_rework/widgets/text_app_button.dart';
 import 'package:flutter/material.dart';
 
 class OnBoardingButtonBlock extends StatelessWidget {

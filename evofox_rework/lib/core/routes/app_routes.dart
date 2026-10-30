@@ -1,10 +1,10 @@
-import 'package:evofox_assignment_01/pages/auth/login_page.dart';
-import 'package:evofox_assignment_01/pages/auth/registration_page.dart';
-import 'package:evofox_assignment_01/pages/onboarding/onboarding_page_one.dart';
-import 'package:evofox_assignment_01/pages/onboarding/onboarding_page_three.dart';
-import 'package:evofox_assignment_01/pages/onboarding/onboarding_page_two.dart';
-import 'package:evofox_assignment_01/pages/onboarding/welcome_page.dart';
-import 'package:evofox_assignment_01/pages/splash/splash_page.dart';
+import 'package:evofox_rework/pages/auth/login_page.dart';
+import 'package:evofox_rework/pages/auth/registration_page.dart';
+import 'package:evofox_rework/pages/onboarding/onboarding_page_one.dart';
+import 'package:evofox_rework/pages/onboarding/onboarding_page_three.dart';
+import 'package:evofox_rework/pages/onboarding/onboarding_page_two.dart';
+import 'package:evofox_rework/pages/onboarding/welcome_page.dart';
+import 'package:evofox_rework/pages/splash/splash_page.dart';
 import 'package:flutter/material.dart';
 
 class AppRoutes {
