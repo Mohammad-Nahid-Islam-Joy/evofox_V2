@@ -228,6 +228,10 @@ These values describe the original design system. They can be adjusted as the V2
 - **Maintainability:** Centralize shared styling and theme configuration.
 - **Scalability:** Design components that can accommodate additional features.
 
+The design is an original gaming-store concept rather than a direct reproduction of an existing storefront.
+
+Here's the Figma Design Frame: [Project Design](https://www.figma.com/design/yd1YWXhx3Fq40iVk5uo03x/EVOFOX--Flutter-Assignment-01-?node-id=0-1&t=lqzjZj5yZ8uW18Su-1)
+
 ---
 
 ## 🛠️ Technology Stack
